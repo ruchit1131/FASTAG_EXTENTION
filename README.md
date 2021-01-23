@@ -41,14 +41,14 @@ The Developer’s API has a unique API Authorization Key which is used to send 2
 
 <br/><br/><br/>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/hHBGv0H/Fastag-Report.jpg" alt="Fastag-Report" border="0" /></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/S0yh1b8/Fastag-Report2.jpg" alt="Fastag-Report2" border="0" /></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/bg8mpR9/Fastag-Report6.jpg" alt="Fastag-Report6" border="0" /></a>
-<a href="https://ibb.co/HPRXrNh"><img src="https://i.ibb.co/94BGqwZ/Fastag-Report7.jpg" alt="Fastag-Report7" border="0" /></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/NpTW3Fx/Fastag-Report4.jpg" alt="Fastag-Report4" border="0" /></a>
-<a href="https://ibb.co/Km13b8y"><img src="https://i.ibb.co/ZNZkGbT/Fastag-Report5.jpg" alt="Fastag-Report5" border="0" /></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/V3tT0ws/Fastag-Report3.jpg" alt="Fastag-Report3" border="0" /></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/6X8mLPJ/Fastag-Report8.jpg" alt="Fastag-Report8" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/hHBGv0H/Fastag-Report.jpg" alt="Fastag-Report" border="20" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/S0yh1b8/Fastag-Report2.jpg" alt="Fastag-Report2" border="20" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/bg8mpR9/Fastag-Report6.jpg" alt="Fastag-Report6" border="20" /></a>
+<a href="https://ibb.co/HPRXrNh"><img src="https://i.ibb.co/94BGqwZ/Fastag-Report7.jpg" alt="Fastag-Report7" border="20" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/NpTW3Fx/Fastag-Report4.jpg" alt="Fastag-Report4" border="20" /></a>
+<a href="https://ibb.co/Km13b8y"><img src="https://i.ibb.co/ZNZkGbT/Fastag-Report5.jpg" alt="Fastag-Report5" border="20" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/V3tT0ws/Fastag-Report3.jpg" alt="Fastag-Report3" border="20" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6X8mLPJ/Fastag-Report8.jpg" alt="Fastag-Report8" border="20" /></a>
 
 
 
